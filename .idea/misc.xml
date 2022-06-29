@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2005" />
+        <entry key="app/src/main/res/layout/activity_dynamic_fragment.xml" value="0.3729166666666667" />
+        <entry key="app/src/main/res/layout/activity_fragment.xml" value="0.26979166666666665" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.35885416666666664" />
+        <entry key="app/src/main/res/layout/activity_my_service.xml" value="0.3729166666666667" />
+        <entry key="app/src/main/res/layout/activity_my_sqlite.xml" value="0.38177083333333334" />
+        <entry key="app/src/main/res/layout/activity_pending_intent.xml" value="0.3729166666666667" />
+        <entry key="app/src/main/res/layout/activity_second.xml" value="0.26979166666666665" />
+        <entry key="app/src/main/res/layout/activity_table.xml" value="0.3958333333333333" />
+        <entry key="app/src/main/res/layout/fragment_dynamic_image.xml" value="0.3729166666666667" />
+        <entry key="app/src/main/res/layout/fragment_dynamic_img.xml" value="0.3729166666666667" />
+        <entry key="app/src/main/res/layout/fragment_dynamic_item.xml" value="0.3729166666666667" />
+        <entry key="app/src/main/res/layout/fragment_dynamic_item_list.xml" value="0.26979166666666665" />
+        <entry key="app/src/main/res/layout/fragment_dynamic_list.xml" value="0.35885416666666664" />
+        <entry key="app/src/main/res/layout/fragment_image.xml" value="0.26979166666666665" />
+        <entry key="app/src/main/res/layout/fragment_item.xml" value="0.3729166666666667" />
+        <entry key="app/src/main/res/layout/fragment_item_list.xml" value="0.19270833333333334" />
+        <entry key="app/src/main/res/layout/fragment_text.xml" value="0.26979166666666665" />
+        <entry key="app/src/main/res/layout/main_acitivity_row.xml" value="0.335" />
+        <entry key="app/src/main/res/layout/pending_intent_timepickerdlg.xml" value="0.371875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
